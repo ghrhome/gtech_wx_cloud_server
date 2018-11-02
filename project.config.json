@@ -1,0 +1,12 @@
+{
+	"client": "client/",
+	"svr": "server/",
+	"miniprogramRoot": "client/",
+	"qcloudRoot": "server/",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx71ddab4174171d1d",
+	"projectname": "gtech_wx_cloud_server",
+	"condition": {}
+}
